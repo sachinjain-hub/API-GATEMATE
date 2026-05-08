@@ -1,0 +1,8 @@
+Flask
+flask-wtf
+flask-mysqldb
+bcrypt
+qrcode
+pillow
+twilio
+gunicorn
