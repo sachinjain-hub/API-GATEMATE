@@ -39,9 +39,9 @@ mysql = MySQL(app)
 
 # ================== TWILIO CONFIG ==================
 import os
-TWILIO_ACCOUNT_SID = "AC52f7a4303f8b9ff43ccca763ab10da3f"
-TWILIO_AUTH_TOKEN = "4c90b94fafcdfbe9102444d9d30f558c"
-TWILIO_FROM_NUMBER = "+17372140957"
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_FROM_NUMBER = ""
 
 
 twilio_client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
